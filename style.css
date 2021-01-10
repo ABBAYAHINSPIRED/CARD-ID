@@ -1,0 +1,41 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    border: 5px solid black;
+    margin: 5px 400px 5px 505px;
+    height: 15em;
+    width: 29em;
+    background-color: #ec9dfc;
+    border-radius: 15px;
+    align-content: center;
+}
+
+h1 {
+    color: lightpink;
+    margin: 1px 400px 25px 550px;
+}
+
+form {
+    text-align: center;
+    margin: 10px 350px 5px 370px;
+}
+
+body {
+    background-color: #255bac;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+    margin: 5px 350px 70px 685px;
+    
+
+}
+
+.info {
+    margin-top: 75px;
+    margin-left: 10px;
+}
